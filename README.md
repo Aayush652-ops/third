@@ -1,4 +1,4 @@
 # third
 This is my third repo
 <br>
-Author -Aayush Gupta 
+Author -Aayush (NSUT CSAI)
